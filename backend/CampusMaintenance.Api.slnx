@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="CampusMaintenance.Application/CampusMaintenance.Application.csproj" />
+  <Project Path="CampusMaintenance.Domain/CampusMaintenance.Domain.csproj" />
+  <Project Path="CampusMaintenance.Infrastructure/CampusMaintenance.Infrastructure.csproj" />
+  <Project Path="CampusMaintenance.WebApi/CampusMaintenance.WebApi.csproj" />
+</Solution>
